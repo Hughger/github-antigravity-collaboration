@@ -1,0 +1,6 @@
+interface:
+  display_name: "Antigravity-Codex Collaboration"
+  short_description: "Discuss, agree, execute, review, and close with real sessions."
+  default_prompt: "Use $antigravity-codex-collaboration to let Antigravity speak first, agree on a plan together, have Codex execute, and ask Antigravity to review the latest work."
+policy:
+  allow_implicit_invocation: false
